@@ -534,7 +534,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"spatial.mp3"
+                 "value":"\/src\/assets\/spatial.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
