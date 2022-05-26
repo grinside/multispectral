@@ -543,25 +543,55 @@
          "name":"Object Layer 2",
          "objects":[
                 {
-                 "height":1143.33333333337,
-                 "id":13,
-                 "name":"espace",
+                 "height":1186.66666666667,
+                 "id":26,
+                 "name":"site",
                  "properties":[
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/www.google.com\/url?sa=i&url=https%3A%2F%2Fwww.sciencesetavenir.fr%2Fespace%2Fvoir-les-nebuleuses-en-gifs-animes_33668&psig=AOvVaw1Id3rsfBVWAoSEydPpVj5Z&ust=1653653512052000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLDT8cOR_fcCFQAAAAAdAAAAABAI"
+                         "value":""
                         }],
                  "rotation":0,
                  "type":"website",
                  "visible":true,
-                 "width":1276.66666666669,
-                 "x":347138.333333333,
-                 "y":581240
+                 "width":1090,
+                 "x":-2758.33333333333,
+                 "y":-4370
+                }, 
+                {
+                 "height":0,
+                 "id":27,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"www.tf1.fr"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":-2951.66666666667,
+                 "y":-4893.33333333333
+                }, 
+                {
+                 "height":0,
+                 "id":28,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":-3335,
+                 "y":-5253.33333333333
                 }],
+         "offsetx":2493.33333333333,
+         "offsety":4210,
          "opacity":1,
-         "parallaxx":500,
-         "parallaxy":600,
+         "parallaxx":0,
+         "parallaxy":0,
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -1158,7 +1188,7 @@
          "y":0
         }],
  "nextlayerid":52,
- "nextobjectid":14,
+ "nextobjectid":29,
  "orientation":"orthogonal",
  "properties":[
         {
