@@ -548,9 +548,14 @@
                  "name":"site",
                  "properties":[
                         {
+                         "name":"allowApi",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/www.idviu.com"
+                         "value":"https:\/\/www.google.com"
                         }],
                  "rotation":0,
                  "type":"website",
@@ -597,6 +602,17 @@
                  "width":0,
                  "x":-2831.66666666667,
                  "y":-5030
+                }, 
+                {
+                 "height":0,
+                 "id":30,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":-1825,
+                 "y":-4286.66666666667
                 }],
          "offsetx":2493.33333333333,
          "offsety":4210,
@@ -1199,7 +1215,7 @@
          "y":0
         }],
  "nextlayerid":52,
- "nextobjectid":30,
+ "nextobjectid":31,
  "orientation":"orthogonal",
  "properties":[
         {
