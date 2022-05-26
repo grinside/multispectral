@@ -550,7 +550,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"www.idviu.com"
+                         "value":"https:\/\/www.idviu.com"
                         }],
                  "rotation":0,
                  "type":"website",
